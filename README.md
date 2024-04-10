@@ -11,7 +11,7 @@ I am a self taught full stack developer with background of Facilies Engineer. Th
 
 ## Usage
 
-When browisng my wensite you'll be presented with an "R" logo that represents my name, when page refreshes, this logo with will spin. 
+When browisng my website you'll be presented with an "R" logo that represents my name, when page refreshes, this logo with will spin. 
 
 The top navbar has 4 options to choose from "About, Exprerience, Projects, and contact".
 
